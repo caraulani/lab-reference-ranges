@@ -1,0 +1,32 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Albumin,albumin-serum,serum,all,40 – 69,40,69,36 – 45,36,45,g/l,,1
+Bilirubin,total-bilirubin,serum,all,–,18,,5 – 25,5,25,µmol/l,,1
+CK,ck-total,serum,F,–,18,,35 – 210,35,210,U/l,,1
+CK,ck-total,serum,M,18 – 49,18,49,50 – 400,50,400,U/l,,1
+CK,ck-total,serum,M,>=50,50,,40 – 280,40,280,U/l,,1
+Fosfat,phosphorus-serum,serum,F,–,18,,"0,85 – 1,50",0.85,1.50,mmol/l,,1
+Fosfat,phosphorus-serum,serum,M,18 – 49,18,49,"0,75 – 1,65",0.75,1.65,mmol/l,,1
+Fosfat,phosphorus-serum,serum,M,>=50,50,,"0,75 – 1,35",0.75,1.35,mmol/l,,1
+Glukose,glucose-fasting,serum,all,–,18,,"4,0 – 6,0",4.0,6.0,mmol/l,,1
+Jern,serum-iron,serum,all,–,18,,9 – 34,9,34,µmol/l,,1
+Kalium,potassium-serum,serum,all,–,18,,"3,6 – 4,6",3.6,4.6,mmol/l,,1
+Kalsium,calcium-total,serum,all,–,18,,"2,15 – 2,51",2.15,2.51,mmol/l,,1
+"Kalsium, albuminkorrigert",calcium-corrected,serum,all,18 – 49,18,49,"2,17 – 2,47",2.17,2.47,mmol/l,,1
+Kolesterol,total-cholesterol,serum,all,30 – 49,30,49,"3,3 – 6,9",3.3,6.9,mmol/l,,1
+HDL-kolesterol,hdl-cholesterol,serum,F,–,18,,"1,0 – 2,7",1.0,2.7,mmol/l,,1
+HDL-kolesterol,hdl-cholesterol,serum,M,–,18,,"0,8 – 2,1",0.8,2.1,mmol/l,,1
+LDL-kolesterol,ldl-cholesterol,serum,all,30 – 49,30,49,"1,5 – 4,8",1.5,4.8,mmol/l,,1
+Kreatinin,creatinine-serum,serum,F,–,18,,50 – 90,50,90,µmol/l,enzymatic level,1
+Kreatinin,creatinine-serum,serum,M,–,18,,60 – 100,60,100,µmol/l,enzymatic level,1
+Magnesium,magnesium-serum,serum,all,–,18,,"0,71 – 0,94",0.71,0.94,mmol/l,,1
+Natrium,sodium-serum,serum,all,–,18,,137 – 145,137,145,mmol/l,,1
+Protein,total-protein,serum,all,–,18,,62 – 78,62,78,g/l,,1
+Triglyserider,triglycerides,serum,all,–,18,,"0,45 – 2,60",0.45,2.60,mmol/l,,1
+Jernbindende kapasitet (TIBC),tibc,serum,all,–,18,,49 – 83,49,83,µmol/l,,1
+Transferrinmetning,transferrin-saturation,serum,F,18 – 49,18,49,10 – 50,10,50,%,,1
+Transferrinmetning,transferrin-saturation,serum,F,>=50,50,,15 – 50,15,50,%,,1
+Transferrinmetning,transferrin-saturation,serum,M,–,18,,15 – 57,15,57,%,,1
+Urea,urea,serum,F,18 – 49,18,49,"2,6 – 6,4",2.6,6.4,mmol/l,,1
+Urea,urea,serum,M,18 – 49,18,49,"3,2 – 8,1",3.2,8.1,mmol/l,,1
+Urinsyre,uric-acid,serum,F,18 – 49,18,49,155 – 350,155,350,µmol/l,,1
+Urinsyre,uric-acid,serum,M,–,18,,230 – 480,230,480,µmol/l,,1

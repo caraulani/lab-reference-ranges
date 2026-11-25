@@ -1,0 +1,50 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Albumin,albumin-serum,not stated,all,adult,,,35 – 50,35,50,g/L,,1
+AST,ast,not stated,M,adult,,,Male < 50,,50,U/L,Roche,1
+AST,ast,not stated,F,adult,,,Female < 35,,35,U/L,Roche,1
+ALT,alt,not stated,M,adult,,,Male < 50,,50,U/L,Roche,1
+ALT,alt,not stated,F,adult,,,Female < 35,,35,U/L,Roche,1
+Alkaline Phosphatase,alp,not stated,all,adult,,,30 – 130,30,130,U/L,,1
+Amylase,amylase,not stated,all,adult,,,28 - 100,28,100,U/L,Roche,1
+Total Bilirubin,total-bilirubin,not stated,all,adult,,,< 21,,21,µmol/L,,1
+Calcium,calcium-total,not stated,all,adult,,,2.15-2.55,2.15,2.55,mmol/L,,2
+Chloride,chloride-serum,not stated,all,adult,,,95 - 108,95,108,mmol/L,,2
+Adjusted Calcium,calcium-corrected,not stated,all,adult,,,2.20 – 2.60,2.20,2.60,mmol/L,,2
+Creatine Kinase,ck-total,not stated,M,adult,,,Male 40 – 320,40,320,IU/L,,2
+Creatine Kinase,ck-total,not stated,F,adult,,,Female 25 – 200,25,200,IU/L,,2
+Creatinine (enzymatic),creatinine-serum,not stated,M,adult,,,Male 59 – 104,59,104,µmol/L,Roche enzymatic,3
+Creatinine (enzymatic),creatinine-serum,not stated,F,adult,,,Female 45 – 84,45,84,µmol/L,Roche enzymatic,3
+CRP,crp,not stated,all,adult,,,< 5,,5,mg/L,Roche,3
+Ferritin,ferritin,not stated,M,adult,,,Male 30 – 400,30,400,µg/L,Roche,3
+Ferritin,ferritin,not stated,F,adult,,,Female 13 – 150,13,150,µg/L,Roche,3
+Free Thyroxine (FT4),free-t4,not stated,all,adult,,,11.9-21.6,11.9,21.6,pmol/L,Roche,3
+Glucose (fasting),glucose-fasting,not stated,all,adult,,,3.5 – 5.4,3.5,5.4,mmol/L,,3
+γ-glutamyltransferase (GGT),ggt,not stated,M,adult,,,Male 10 – 71,10,71,IU/L,Roche,4
+γ-glutamyltransferase (GGT),ggt,not stated,F,adult,,,Female 6 – 42,6,42,IU/L,Roche,4
+Iron,serum-iron,not stated,all,adult,,,5.8 – 34.5,5.8,34.5,µmol/L,Roche,4
+LDH,ldh,not stated,F,adult,,,Female 135-214,135,214,U/L,Roche,4
+LDH,ldh,not stated,M,adult,,,Male 135-225,135,225,U/L,Roche,4
+Magnesium,magnesium-serum,not stated,all,adult,,,0.70-1.00,0.70,1.00,mmol/L,,5
+Phosphate,phosphorus-serum,not stated,all,adult,,,0.80 – 1.50,0.80,1.50,mmol/L,Roche,5
+Potassium,potassium-serum,not stated,all,adult,,,3.5 – 5.3,3.5,5.3,mmol/L,,5
+Prolactin,prolactin,not stated,F,adult,,,Female 102-496,102,496,mIU/L,Roche,6
+Prolactin,prolactin,not stated,M,adult,,,Male 86-324,86,324,mIU/L,Roche,6
+Testosterone,testosterone-total,not stated,M,Male less than 50 years old,,49,11.4-27.9,11.4,27.9,nmol/L,Roche,6
+Testosterone,testosterone-total,not stated,M,Male over 50 years old,50,,28.3,9.5,28.3,nmol/L,Roche,6
+Testosterone,testosterone-total,not stated,F,Female less than 50 years old,,49,old 0.3-1.7,0.3,1.7,nmol/L,Roche,6
+Testosterone,testosterone-total,not stated,F,Female over 50 years old,50,,1.4,0.1,1.4,nmol/L,Roche,6
+Total protein,total-protein,not stated,all,adult,,,60 - 80,60,80,g/L,,6
+Total PSA,psa-total,not stated,M,0-49yrs,,49,0-49yrs 0-2.5,0,2.5,ug/L,,7
+Total PSA,psa-total,not stated,M,50-69yrs,50,69,50-69yrs 0-3.0,0,3.0,ug/L,,7
+Total PSA,psa-total,not stated,M,69-79yrs,69,79,69-79yrs 0-6.5,0,6.5,ug/L,,7
+Transferrin,transferrin,not stated,all,adult,,,2.0 – 3.6,2.0,3.6,g/L,Roche,7
+Transferrin Saturation,transferrin-saturation,not stated,all,adult,,,15 - 45,15,45,%,Roche,7
+SHBG,shbg,not stated,M,Males (20-49yrs),20,49,Males (20-49yrs) 18.3-54.1,18.3,54.1,nmol/L,Roche,7
+SHBG,shbg,not stated,M,Males (>/= 50yrs),50,,Males (>/= 50yrs) 20.6-76.7,20.6,76.7,nmol/L,Roche,7
+SHBG,shbg,not stated,F,Females (20-49 yrs),20,49,Females (20-49 yrs) 32.4-128,32.4,128,nmol/L,Roche,7
+SHBG,shbg,not stated,F,Females (>/= 50 yrs),50,,Females (>/= 50 yrs) 27.1-128,27.1,128,nmol/L,Roche,7
+Sodium,sodium-serum,not stated,all,adult,,,133 – 146,133,146,mmol/L,,7
+TSH,tsh,not stated,all,adult,,,0.27-4.2,0.27,4.2,mU/L,Roche,8
+Urate,uric-acid,not stated,M,adult,,,Male 200 – 430,200,430,µmol/L,,8
+Urate,uric-acid,not stated,F,adult,,,Female 140 – 360,140,360,µmol/L,,8
+Urea,urea,not stated,all,adult,,,2.5 – 7.8,2.5,7.8,mmol/L,,8

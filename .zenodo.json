@@ -1,0 +1,33 @@
+{
+  "title": "Lab Reference Ranges: a sourced snapshot of published adult reference intervals from hospital laboratories and harmonisation bodies",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "description": "510 adult reference intervals, decision limits and targets for 52 blood analytes, transcribed by hand from public documents of 10 hospital laboratories in the United Kingdom, Germany, New Zealand and the United States and of two harmonisation bodies (UK Pathology Harmony 2011; Nordic NORIP as published in 2004). Every row cites its document, page and access date (2026-11-25), and every source file was archived with its SHA-256. Limits are converted to one unit per analyte only where LifeFrom's unit table gives a factor or the change is pure unit arithmetic. A variation summary gives, per analyte and sex, the lowest and highest lower and upper limits across laboratories for a 40-year-old adult, and a second table lists concrete values that fall outside one laboratory's printed interval and inside another's. Six sources were read but not included because their terms of use forbid reuse. The data describe what laboratories print; they do not say which interval is correct.",
+  "creators": [
+    {
+      "name": "LifeFrom"
+    },
+    {
+      "name": "Caraulani, Julian",
+      "affiliation": "LifeFrom"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "reference intervals",
+    "reference ranges",
+    "harmonisation",
+    "clinical chemistry",
+    "haematology",
+    "laboratory medicine"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://lifefrom.ai/research/open-data/lab-ranges",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code (scripts/, tests/) is under the MIT licence."
+}

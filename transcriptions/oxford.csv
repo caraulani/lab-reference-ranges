@@ -1,0 +1,46 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Alanine Aminotransaminase (ALT),alt,serum (SST),all,adult,,,10-35,10,35,IU/L,,2
+Albumin,albumin-serum,serum (SST),all,adult,,,32-50,32,50,g/L,,2
+Alkaline Phosphatase (ALP),alp,serum (SST),M,>18 yrs,18,,>18 yrs: 30-130,30,130,IU/L,,2
+Alkaline Phosphatase (ALP),alp,serum (SST),F,>18 yrs,18,,>18 yrs: 30-130,30,130,IU/L,,3
+Amylase,amylase,serum (SST),all,≥18 yrs,18,,≥18 yrs: 25-125,25,125,IU/L,,3
+Aspartate Aminotransferase (AST),ast,serum (SST),M,18y+,18,,18y+ 15-34,15,34,IU/L,,4
+Aspartate Aminotransferase (AST),ast,serum (SST),F,18y+,18,,18y+ 15-34,15,34,IU/L,,4
+Bicarbonate,bicarbonate-co2,serum (SST),all,adult,,,22-29,22,29,mmol/L,,4
+Bilirubin (total),total-bilirubin,serum (SST),all,adult,,,0-21,0,21,µmol/L (µ lost in text layer),,4
+C-reactive protein (CRP),crp,serum (SST),all,adult,,,0-5,0,5,mg/L,,4
+Calcium (adjusted),calcium-corrected,serum (SST),all,adult,,,2.20-2.60,2.20,2.60,mmol/L,,5
+Chloride,chloride-serum,serum (SST),all,adult,,,95-108,95,108,mmol/L,,6
+Creatine Kinase (CK),ck-total,serum (SST),M,adult,,,40-320,40,320,IU/L,,6
+Creatine Kinase (CK),ck-total,serum (SST),F,adult,,,25-200,25,200,IU/L,,6
+Creatinine,creatinine-serum,serum (SST),M,>18yrs,18,,>18yrs: 64-104,64,104,µmol/L (µ lost in text layer),,7
+Creatinine,creatinine-serum,serum (SST),F,>18yrs,18,,>18yrs: 49-90,49,90,µmol/L (µ lost in text layer),,7
+Ferritin,ferritin,serum (SST),all,adult,,,30-336,30,336,µg/L (µ lost in text layer),,9
+Folate,folate-serum,serum (SST),all,adult,,,3.1-20.0,3.1,20.0,µg/L (µ lost in text layer),,9
+Gamma glutamyl transferase (GGT),ggt,serum (SST),M,18y+,18,,18y+ 0-38,0,38,IU/L,,10
+Gamma glutamyl transferase (GGT),ggt,serum (SST),F,18y+,18,,18y+ 0-55,0,55,IU/L,,10
+HbA1c,hba1c,whole blood (EDTA),all,Adults,18,,20-41,20,41,mmol/mol Hb,,11
+Iron,serum-iron,serum (SST),all,adult,,,11-32,11,32,µmol/L (µ lost in text layer),,13
+Lactate Dehydrogenase (LDH),ldh,serum (SST),F,≥18 yrs,18,,≥18 yrs: 125-220,125,220,IU/L,,14
+Lactate Dehydrogenase (LDH),ldh,serum (SST),M,≥18 yrs,18,,≥18 yrs: 125-220,125,220,IU/L,,14
+Lipase,lipase,serum (SST),all,≥18 yrs,18,,≥18 yrs: 8-78,8,78,IU/L,,14
+Magnesium,magnesium-serum,serum (SST),all,≥18 yrs,18,,≥18 yrs: 0.70 – 1.00,0.70,1.00,mmol/L,,16
+Phosphate,phosphorus-serum,serum (SST),all,>18 yrs,18,,>18 yrs: 0.80-1.50,0.80,1.50,mmol/L,,17
+Potassium,potassium-serum,serum (SST),all,adult,,,3.5-5.3,3.5,5.3,mmol/L,,17
+Prolactin,prolactin,serum (SST),M,adult,,,Males: 70-140,70,140,mIU/L,,18
+Prolactin,prolactin,serum (SST),F,adult,,,Females: 110-560,110,560,mIU/L,,18
+Sex Hormone Binding Globulin (SHBG),shbg,serum (SST),M,>18 yrs,18,,>18 yrs: 17-78,17,78,nmol/L,,18
+Sex Hormone Binding Globulin (SHBG),shbg,serum (SST),F,19-49 yrs,19,49,19-49 yrs: 34-148,34,148,nmol/L,,19
+Sex Hormone Binding Globulin (SHBG),shbg,serum (SST),F,>49 yrs,50,,>49 yrs: 26-118,26,118,nmol/L,,19
+Sodium,sodium-serum,serum (SST),all,adult,,,133-146,133,146,mmol/L,,19
+Testosterone,testosterone-total,serum (SST),M,≥19 yrs,19,,≥19 yrs: 8.0-32.0,8.0,32.0,nmol/L,,20
+Testosterone,testosterone-total,serum (SST),F,≥15 yrs,15,,≥15 yrs: <1.91,,1.91,nmol/L,,20
+Thyroid Stimulating Hormone (TSH),tsh,serum (SST),all,>18 yrs,18,,>18 yrs 0.35-4.94,0.35,4.94,mIU/L,,20
+"Thyroxine, free (fT4)",free-t4,serum (SST),all,>18 yrs,18,,>18 yrs: 9.0-19.0,9.0,19.0,pmol/L,,20
+Total Protein,total-protein,serum (SST),all,adult,,,60-80,60,80,g/L,,20
+Transferrin,transferrin,serum (SST),all,adult,,,1.7-3.6,1.7,3.6,g/L,,21
+Transferrin saturation,transferrin-saturation,serum (SST),all,adult,,,20-55,20,55,%,,21
+Triglycerides,triglycerides,serum (SST),all,adult,,,Fasting: <1.70,,1.70,mmol/L,,21
+Urate (uric acid),uric-acid,serum (SST),M,Males ≥9 yrs,9,,Males ≥9 yrs: 200-430,200,430,µmol/L (µ lost in text layer),,21
+Urate (uric acid),uric-acid,serum (SST),F,Females ≥9 yrs,9,,Females ≥9 yrs: 140-360,140,360,µmol/L (µ lost in text layer),,21
+Urea,urea,serum (SST),all,18y+,18,,18y+: 2.5-7.8,2.5,7.8,mmol/L,,22

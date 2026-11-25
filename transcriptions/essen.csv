@@ -1,0 +1,68 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+"25‐OH‐Vitamin D (Siemens, RMP)",vitamin-d-25-oh,serum,all,18 Jahre ‐ 120 Jahre,18,120,"9,7 ‐ 39,6",9.7,39.6,ng/ml,Siemens,1
+Albumin,albumin-serum,serum,all,19 Jahre ‐ 120 Jahre,19,120,"3,2 ‐ 4,8",3.2,4.8,g/dl,,2
+alkal. Phosphatase (AP),alp,serum,M,18 Jahre ‐ 120 Jahre,18,120,40 ‐ 130,40,130,U/l,,2
+alkal. Phosphatase (AP),alp,serum,F,18 Jahre ‐ 120 Jahre,18,120,55 ‐ 105,55,105,U/l,,2
+Bilirubin (gesamt),total-bilirubin,serum,all,18 Jahre ‐ 120 Jahre,18,120,"0,3 ‐ 1,2",0.3,1.2,mg/dl,,6
+Leukozyten,wbc,EDTA whole blood,all,18 Jahre ‐ 120 Jahre,18,120,"3,6 ‐ 9,2",3.6,9.2,/nl,,6
+Erythrozyten,rbc,EDTA whole blood,M,17 Jahre ‐ 120 Jahre,17,120,"4,5 ‐ 5,6",4.5,5.6,/pl,,6
+Erythrozyten,rbc,EDTA whole blood,F,17 Jahre ‐ 120 Jahre,17,120,"3,9 ‐ 5,1",3.9,5.1,/pl,,7
+Hämoglobin,hemoglobin,EDTA whole blood,M,16 Jahre ‐ 70 Jahre,16,70,"13,7 ‐ 17,2",13.7,17.2,g/dl,,7
+Hämoglobin,hemoglobin,EDTA whole blood,F,16 Jahre ‐ 70 Jahre,16,70,"12,0 ‐ 15,2",12.0,15.2,g/dl,,7
+Hämatokrit,hematocrit,EDTA whole blood,M,17 Jahre ‐ 120 Jahre,17,120,"0,4 ‐ 0,5",0.4,0.5,l/l,,7
+Hämatokrit,hematocrit,EDTA whole blood,F,17 Jahre ‐ 120 Jahre,17,120,"0,37 ‐ 0,46",0.37,0.46,l/l,,8
+MCV,mcv,EDTA whole blood,M,17 Jahre ‐ 120 Jahre,17,120,83 ‐ 98,83,98,fl,,8
+MCV,mcv,EDTA whole blood,F,17 Jahre ‐ 120 Jahre,17,120,85 ‐ 98,85,98,fl,,8
+Thrombozyten,platelet-count,EDTA whole blood,M,15 Jahre ‐ 120 Jahre,15,120,140 ‐ 320,140,320,/nl,,9
+Thrombozyten,platelet-count,EDTA whole blood,F,15 Jahre ‐ 120 Jahre,15,120,180 ‐ 380,180,380,/nl,,9
+Calcium,calcium-total,serum,all,19 Jahre ‐ 120 Jahre,19,120,"2,08 ‐ 2,65",2.08,2.65,mmol/l,,11
+Chlorid,chloride-serum,serum,all,19 Jahre ‐ 120 Jahre,19,120,98 ‐ 107,98,107,mmol/l,,12
+Cholesterin (gesamt),total-cholesterol,serum,all,18 Jahre ‐ 120 Jahre,18,120,<200,,200,mg/dl,,12
+HDL‐Cholesterin,hdl-cholesterol,serum,all,6 Monate ‐ 120 Jahre,,120,>40,40,,mg/dl,,25
+CK,ck-total,serum,M,18 Jahre ‐ 120 Jahre,18,120,46 ‐ 171,46,171,U/l,,12
+CK,ck-total,serum,F,18 Jahre ‐ 120 Jahre,18,120,34 ‐ 145,34,145,U/l,,12
+CRP,crp,serum,all,0 Jahre ‐ 120 Jahre,0,120,"<0,5",,0.5,mg/dl,,13
+Eisen,serum-iron,serum,M,13 Jahre ‐ 120 Jahre,13,120,60 ‐ 175,60,175,µg/dl,,15
+Eisen,serum-iron,serum,F,13 Jahre ‐ 120 Jahre,13,120,45 ‐ 170,45,170,µg/dl,,15
+Ferritin,ferritin,serum,M,18 Jahre ‐ 120 Jahre,18,120,22 ‐ 322,22,322,µg/l,,17
+Ferritin,ferritin,serum,F,18 Jahre ‐ 50 Jahre,18,50,9 ‐ 145,9,145,µg/l,,17
+Ferritin,ferritin,serum,F,51 Jahre ‐ 120 Jahre,51,120,10 ‐ 291,10,291,µg/l,,17
+Folat,folate-serum,serum,all,18 Jahre ‐ 120 Jahre,18,120,">5,38",5.38,,ng/ml,,17
+fT4,free-t4,serum,all,19 Jahre ‐ 120 Jahre,19,120,"11,5 ‐ 22,7",11.5,22.7,pmol/l,,19
+GGT,ggt,serum,M,19 Jahre ‐ 120 Jahre,19,120,<55,,55,U/l,,20
+GGT,ggt,serum,F,19 Jahre ‐ 120 Jahre,19,120,<35,,35,U/l,,20
+Glukose (Serum) (SI‐Einheit),glucose-fasting,serum,all,18 Jahre ‐ 120 Jahre,18,120,"4,11 ‐ 5,50",4.11,5.50,mmol/l,,22
+Glukose (NaF‐Pl.) (SI‐Einheit),glucose-fasting,NaF plasma,all,18 Jahre ‐ 120 Jahre,18,120,"4,11 ‐ 5,50",4.11,5.50,mmol/l,,21
+GOT (ASAT),ast,serum,M,20 Jahre ‐ 120 Jahre,20,120,<50,,50,U/l,,22
+GOT (ASAT),ast,serum,F,20 Jahre ‐ 120 Jahre,20,120,<35,,35,U/l,,22
+GPT (ALAT),alt,serum,M,20 Jahre ‐ 120 Jahre,20,120,<50,,50,U/l,,22
+GPT (ALAT),alt,serum,F,20 Jahre ‐ 120 Jahre,20,120,<35,,35,U/l,,23
+Harnsäure (SI‐Einheit),uric-acid,serum,M,19 Jahre ‐ 120 Jahre,19,120,"208,3 ‐ 428,4",208.3,428.4,µmol/l,,23
+Harnsäure (SI‐Einheit),uric-acid,serum,F,19 Jahre ‐ 120 Jahre,19,120,"154,7 ‐ 357",154.7,357,µmol/l,,23
+Harnstoff (SI‐Einheit),urea,serum,all,19 Jahre ‐ 120 Jahre,19,120,"2,1 ‐ 7,1",2.1,7.1,mmol/l,,24
+HbA1c,hba1c,EDTA whole blood,all,19 Jahre ‐ 120 Jahre,19,120,"<5,7",,5.7,%,,24
+Kalium,potassium-serum,serum,all,18 Jahre ‐ 120 Jahre,18,120,"3,5 ‐ 5,1",3.5,5.1,mmol/l,,42
+LDH,ldh,serum,M,20 Jahre ‐ 120 Jahre,20,120,100 ‐ 247,100,247,U/l,,44
+LDH,ldh,serum,F,20 Jahre ‐ 120 Jahre,20,120,120 ‐ 247,120,247,U/l,,45
+Lipase,lipase,serum,all,18 Jahre ‐ 120 Jahre,18,120,12 ‐ 53,12,53,U/l,,46
+Magnesium,magnesium-serum,serum,all,18 Jahre ‐ 120 Jahre,18,120,"0,66 ‐ 1,07",0.66,1.07,mmol/l,,46
+Natrium,sodium-serum,serum,all,19 Jahre ‐ 120 Jahre,19,120,136 ‐ 145,136,145,mmol/l,,47
+Phosphat (anorg.) (SI‐Einheit),phosphorus-serum,serum,all,17 Jahre ‐ 120 Jahre,17,120,"0,87 ‐ 1,45",0.87,1.45,mmol/l,,49
+Prolaktin,prolactin,serum,M,22 Jahre ‐ 120 Jahre,22,120,"2,1 ‐ 17,7",2.1,17.7,ng/ml,,50
+Prolaktin,prolactin,serum,F,22 Jahre ‐ 60 Jahre,22,60,"2,8 ‐ 29,2",2.8,29.2,ng/ml,,51
+PSA (Siemens),psa-total,serum,M,18 Jahre ‐ 120 Jahre,18,120,"4,0",,4.0,ng/ml,Siemens,52
+Sexualhormon bindendes Globulin,shbg,serum,M,31 Jahre ‐ 40 Jahre,31,40,10 ‐ 43,10,43,nmol/l,,53
+Sexualhormon bindendes Globulin,shbg,serum,M,41 Jahre ‐ 50 Jahre,41,50,"12,5 ‐ 42",12.5,42,nmol/l,,53
+Sexualhormon bindendes Globulin,shbg,serum,F,31 Jahre ‐ 40 Jahre,31,40,"21,5 ‐ 162",21.5,162,nmol/l,,53
+Sexualhormon bindendes Globulin,shbg,serum,F,41 Jahre ‐ 50 Jahre,41,50,17 ‐ 112,17,112,nmol/l,,53
+S‐Kreatinin (enzym.) (SI‐Einheit),creatinine-serum,serum,M,19 Jahre ‐ 120 Jahre,19,120,59 ‐ 103,59,103,µmol/l,enzymatic,54
+S‐Kreatinin (enzym.) (SI‐Einheit),creatinine-serum,serum,F,19 Jahre ‐ 120 Jahre,19,120,45 ‐ 84,45,84,µmol/l,enzymatic,54
+Gesamt‐Eiweiß,total-protein,serum,M,19 Jahre ‐ 120 Jahre,19,120,"6,4 ‐ 8,3",6.4,8.3,g/dl,,20
+Gesamt‐Eiweiß,total-protein,serum,F,19 Jahre ‐ 120 Jahre,19,120,"6,4 ‐ 8,3",6.4,8.3,g/dl,,20
+"Testosteron (TSTII, Siemens)",testosterone-total,serum,M,22 Jahre ‐ 49 Jahre,22,49,"5,72 ‐ 26,14",5.72,26.14,nmol/l,Siemens TSTII,55
+"Testosteron (TSTII, Siemens)",testosterone-total,serum,M,50 Jahre ‐ 89 Jahre,50,89,"3,00 ‐ 27,35",3.00,27.35,nmol/l,Siemens TSTII,55
+"Testosteron (TSTII, Siemens)",testosterone-total,serum,F,22 Jahre ‐ 55 Jahre,22,55,"0,42 ‐ 2,06",0.42,2.06,nmol/l,Siemens TSTII,55
+Transferrin,transferrin,serum,M,18 Jahre ‐ 120 Jahre,18,120,"2,15 ‐ 3,65",2.15,3.65,g/l,,57
+Transferrin,transferrin,serum,F,18 Jahre ‐ 120 Jahre,18,120,"2,5 ‐ 3,8",2.5,3.8,g/l,,57
+TSH,tsh,serum,all,21 Jahre ‐ 120 Jahre,21,120,"0,3 ‐ 3,0",0.3,3.0,mU/l,,57
+Vitamin B12 (Siemens),vitamin-b12,serum,all,1 Jahre ‐ 120 Jahre,1,120,211 ‐ 911,211,911,pg/ml,Siemens,61

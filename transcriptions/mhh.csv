@@ -1,0 +1,77 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+"Albumin, S/U",albumin-serum,serum,all,Serum (adult),,,35 - 52,35,52,g/l,,3
+Alkalische Phosphatase (AP),alp,serum,M,Erwachsene (M),18,,40 - 129,40,129,U/l,,4
+Alkalische Phosphatase (AP),alp,serum,F,Erwachsene (W),18,,35 - 104,35,104,U/l,,4
+ALT (GPT),alt,serum,M,Erwachsene (M),18,,≤ 45,,45,U/l,,4
+ALT (GPT),alt,serum,F,Erwachsene (W),18,,≤ 34,,34,U/l,,4
+AST (GOT),ast,serum,M,Erwachsene (M),18,,≤ 35,,35,U/l,,4
+AST (GOT),ast,serum,F,Erwachsene (W),18,,≤ 31,,31,U/l,,4
+"Bilirubin, gesamt",total-bilirubin,serum,all,Erwachsene,18,,2 - 21,2,21,µmol/l,,5
+Calcium,calcium-total,serum,all,Erwachsene ≤ 60 Jahre,18,60,"2,15 - 2,50",2.15,2.50,mmol/l,,6
+Chlorid,chloride-serum,serum / BGA,all,adult,,,95 - 105,95,105,mmol/l,,7
+CK (Creatinkinase) Gesamt-CK,ck-total,serum,M,M,,,≤ 171,,171,U/l,,8
+CK (Creatinkinase) Gesamt-CK,ck-total,serum,F,W,,,≤ 145,,145,U/l,,8
+"Cholesterin, gesamt",total-cholesterol,serum,all,adult (ESC 2019 Richtwert),,,"< 5,2 (< 200)",,5.2,mmol/l,,7
+HDL-Cholesterin,hdl-cholesterol,serum,M,M (ESC 2019 Richtwert),,,"> 1,0 (> 40)",1.0,,mmol/l,,7
+HDL-Cholesterin,hdl-cholesterol,serum,F,W (ESC 2019 Richtwert),,,"> 1,2 (> 45)",1.2,,mmol/l,,7
+"CRP (C-reaktives Protein), S",crp,serum,all,adult,,,≤ 5,,5,mg/l,,9
+"Eisen, S",serum-iron,serum,all,adult,,,6 - 35,6,35,µmol/l,,10
+"Ferritin, S",ferritin,serum,M,"Männer, > 16 Jahre",16,,27 - 365,27,365,µg/l,,11
+"Ferritin, S",ferritin,serum,F,"Frauen, 16 - 50 Jahre",16,50,13 - 148,13,148,µg/l,,11
+"Ferritin, S",ferritin,serum,F,"Frauen, > 51 Jahre",51,,27 - 365,27,365,µg/l,,11
+Folsäure/Folat,folate-serum,serum,all,adult,,,"3,9 - 26,8",3.9,26.8,µg/l,,11
+"γ-GT, GGT",ggt,serum,M,M,,,≤ 55,,55,U/l,,11
+"γ-GT, GGT",ggt,serum,F,W,,,≤ 38,,38,U/l,,11
+Glucose,glucose-fasting,serum,all,adult,,,"3,9 - 5,5 (70 - 99)",3.9,5.5,mmol/l,,12
+Glucose,glucose-fasting,plasma,all,adult,,,"4,4 - 6,0 (79 - 108)",4.4,6.0,mmol/l,,12
+"Harnsäure, S/U",uric-acid,serum,M,Serum (M),,,200 - 420,200,420,µmol/l,,12
+"Harnsäure, S/U",uric-acid,serum,F,Serum (W),,,140 - 340,140,340,µmol/l,,12
+"Harnstoff, S",urea,serum,all,adult,,,"2,8 - 7,2",2.8,7.2,mmol/l,,12
+"HbA1c, B",hba1c,EDTA whole blood,all,adult,,,29 - 38,29,38,mmol/mol Hb,,12
+"HbA1c, B",hba1c,EDTA whole blood,all,adult,,,"4,8 - 5,6",4.8,5.6,%,,12
+Kalium,potassium-serum,serum,all,adult,,,"3,7 - 5,1",3.7,5.1,mmol/l,,15
+"Kreatinin, S",creatinine-serum,serum,M,Erwachsene (M),18,,"59 - 104 (0,67 - 1,17)",59,104,µmol/l,,16
+"Kreatinin, S",creatinine-serum,serum,F,Erwachsene (W),18,,"45 - 84 (0,51 - 0,95)",45,84,µmol/l,,16
+LDH (Lactatdehydrogenase),ldh,serum,M,Erwachsene (M),18,,> 50 - 248,50,248,U/l,,16
+LDH (Lactatdehydrogenase),ldh,serum,F,Erwachsene (W),18,,> 50 - 247,50,247,U/l,,16
+"Lipase, S",lipase,serum,all,adult,,,13 - 60,13,60,U/l,,16
+"Magnesium, S/U",magnesium-serum,serum,M,"Serum, Erwachsene (M)",18,,"0,73 - 1,06",0.73,1.06,mmol/l,,17
+"Magnesium, S/U",magnesium-serum,serum,F,"Serum, Erwachsene (W)",18,,"0,77 - 1,03",0.77,1.03,mmol/l,,17
+Natrium,sodium-serum,serum/plasma,all,adult,,,135 - 145,135,145,mmol/l,,17
+"Phosphat, S/P",phosphorus-serum,serum/plasma,all,Erwachsene,18,,"0,81 - 1,45",0.81,1.45,mmol/l,,19
+"Prolactin, S",prolactin,serum,M,Männer,,,"4,0 - 15,2",4.0,15.2,µg/l,,20
+Protein Serum,total-protein,serum,all,Erwachsene,18,,65 - 80,65,80,g/l,,20
+PSA (Total-PSA),psa-total,serum,M,≤ 40 Jahre,,40,"≤ 1,4",,1.4,µg/l,,20
+PSA (Total-PSA),psa-total,serum,M,≤ 50 Jahre,41,50,"≤ 2,0",,2.0,µg/l,,20
+PSA (Total-PSA),psa-total,serum,M,≤ 60 Jahre,51,60,"≤ 3,1",,3.1,µg/l,,20
+PSA (Total-PSA),psa-total,serum,M,≤ 70 Jahre,61,70,"≤ 4,1",,4.1,µg/l,,20
+PSA (Total-PSA),psa-total,serum,M,> 70 Jahre,71,,"≤ 4,4",,4.4,µg/l,,20
+SHBG,shbg,serum,M,Männer < 50 Jahre,,49,"18,3 - 54,1",18.3,54.1,nmol/l,,22
+SHBG,shbg,serum,M,Männer ≥ 50 Jahre,50,,"20,6 - 76,7",20.6,76.7,nmol/l,,22
+SHBG,shbg,serum,F,Frauen < 50 Jahre,,49,"32,4 - 128",32.4,128,nmol/l,,22
+SHBG,shbg,serum,F,Frauen ≥ 50 Jahre,50,,"27,1 - 128",27.1,128,nmol/l,,22
+"T4, frei (fT4)",free-t4,serum,all,Erwachsene,18,,"11,9 - 21,6",11.9,21.6,pmol/l,,23
+Testosteron,testosterone-total,serum,M,Männer < 50,,49,"2,49 - 8,36",2.49,8.36,ng/ml,,23
+Testosteron,testosterone-total,serum,M,Männer ≥ 50,50,,"1,93 - 7,40",1.93,7.40,ng/ml,,23
+Testosteron,testosterone-total,serum,F,Frauen < 50,,49,"0,08 - 0,48",0.08,0.48,ng/ml,,23
+Testosteron,testosterone-total,serum,F,Frauen ≥ 50,50,,"0,03 - 0,41",0.03,0.41,ng/ml,,23
+Eisenbindungskapazität (EBK),tibc,serum,all,adult,,,45 - 81,45,81,µmol/l,,23
+Transferrinsättigung,transferrin-saturation,serum,all,adult,,,15 - 45,15,45,%,,23
+"Triglyceride, S",triglycerides,serum,all,adult,,,"< 2,0",,2.0,mmol/l,,23
+TSH,tsh,serum,all,Erwachsene,18,,"0,27 - 4,20",0.27,4.20,mU/l,,23
+"Vitamin B12, S",vitamin-b12,serum,all,adult,,,197 - 771,197,771,ng/l,,25
+25-Hydroxy-Vitamin D,vitamin-d-25-oh,serum,all,Erwachsene,18,,> 75,75,,nmol/l,,25
+Erythrozyten,rbc,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"3,90 - 5,20",3.90,5.20,Mio./µl,,26
+Erythrozyten,rbc,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"4,30 - 5,75",4.30,5.75,Mio./µl,,26
+Hämoglobin,hemoglobin,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"12,0 - 15,6",12.0,15.6,g/dl,,26
+Hämoglobin,hemoglobin,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"13,5 - 17,2",13.5,17.2,g/dl,,26
+Hämatokrit,hematocrit,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"35,5 - 45,5",35.5,45.5,%,,26
+Hämatokrit,hematocrit,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"39,5 - 50,5",39.5,50.5,%,,26
+MCV,mcv,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"80,0 - 99,0",80.0,99.0,fl,,26
+MCV,mcv,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"80,0 - 99,0",80.0,99.0,fl,,26
+Thrombozyten,platelet-count,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,150 - 370,150,370,Tsd./µl,,28
+Thrombozyten,platelet-count,EDTA whole blood,M,Männer bis 65 Jahre,18,65,150 - 370,150,370,Tsd./µl,,28
+Leukozyten,wbc,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"3,9 - 10,2",3.9,10.2,Tsd./µl,,29
+Leukozyten,wbc,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"3,9 - 10,2",3.9,10.2,Tsd./µl,,29
+Lymphozyten,lymphocytes-absolute,EDTA whole blood,F,Frauen bis 65 Jahre,18,65,"1,1 - 4,6",1.1,4.6,Tsd./µl,,29
+Lymphozyten,lymphocytes-absolute,EDTA whole blood,M,Männer bis 65 Jahre,18,65,"1,1 - 4,6",1.1,4.6,Tsd./µl,,29

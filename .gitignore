@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+# raw archive lives outside the repository in ../_raw/
+_raw/

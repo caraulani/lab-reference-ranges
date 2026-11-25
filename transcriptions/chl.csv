@@ -1,0 +1,28 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Alanine aminotransferase (ALT),alt,not stated,M,adult,,,Male 0 40,0,40,U/L,,1
+Alanine aminotransferase (ALT),alt,not stated,F,adult,,,Female 0 30,0,30,U/L,,1
+Albumin,albumin-serum,not stated,all,> 16 yrs,16,,> 16 yrs 32 48,32,48,g/L,,1
+Alkaline Phosphatase (ALP),alp,not stated,all,> 18 yrs,18,,> 18 yrs 30 150,30,150,U/L,,1
+Aspartate aminotransferase (AST),ast,not stated,all,> 5 yrs,5,,> 5 yrs 10 50,10,50,U/L,,1
+Bicarbonate,bicarbonate-co2,not stated,all,> 2 yrs,2,,> 2 yrs 22 32,22,32,mmol/L,,1
+Bilirubin,total-bilirubin,not stated,all,adult,,,Bilirubin 2 20,2,20,µmol/L,,1
+Calcium,calcium-total,not stated,all,> 18 yrs,18,,> 18 yrs 2.2 2.6,2.2,2.6,mmol/L,,1
+Chloride,chloride-serum,not stated,all,adult,,,Chloride 95 110,95,110,mmol/L,,1
+Creatinine,creatinine-serum,not stated,M,> 15 yrs (Male),15,,> 15 yrs (Male) 50 110,50,110,µmol/L,,2
+Creatinine,creatinine-serum,not stated,F,> 15 yrs (Female),15,,> 15 yrs (Female) 45 90,45,90,µmol/L,,2
+Creatine Kinase (CK),ck-total,not stated,M,adult,,,Male 60 220,60,220,U/L,,2
+Creatine Kinase (CK),ck-total,not stated,F,adult,,,Female 30 180,30,180,U/L,,2
+C-Reactive Protein (CRP),crp,not stated,all,adult,,,< 5,,5,mg/L,,2
+Gamma glutamyl transferase (GGT),ggt,not stated,M,> 12 yrs (Male),12,,> 12 yrs (Male) 10 50,10,50,U/L,,2
+Gamma glutamyl transferase (GGT),ggt,not stated,F,> 12 yrs (Female),12,,> 12 yrs (Female) 10 35,10,35,U/L,,2
+Glucose,glucose-fasting,not stated,all,adult,,,Fasting 3.5 6,3.5,6,mmol/L,,2
+Lactate Dehydrogenase (LD),ldh,not stated,all,> 18 yrs,18,,> 18 yrs 110 220,110,220,U/L,,2
+Lipase,lipase,not stated,all,adult,,,Lipase 10 60,10,60,U/L,,2
+Magnesium,magnesium-serum,not stated,all,adult,,,Magnesium 0.6 1.2,0.6,1.2,mmol/L,,2
+Phosphate,phosphorus-serum,not stated,all,> 16 yrs,16,,> 16 yrs 0.8 1.5,0.8,1.5,mmol/L,,2
+Potassium,potassium-serum,not stated,all,adult,,,Potassium 3.5 5.2,3.5,5.2,mmol/L,,2
+Sodium,sodium-serum,not stated,all,adult,,,Sodium 135 145,135,145,mmol/L,,2
+Total Protein,total-protein,not stated,all,> 11 yrs,11,,> 11 yrs 64 83,64,83,g/L,,2
+Urate (Uric Acid),uric-acid,not stated,M,> 11 yrs (Male),11,,> 11 yrs (Male) 0.2 0.42,0.2,0.42,mmol/L,,2
+Urate (Uric Acid),uric-acid,not stated,F,> 11 yrs (Female),11,,> 11 yrs (Female) 0.15 0.36,0.15,0.36,mmol/L,,2
+Urea,urea,not stated,all,> 13 yrs,13,,> 13 yrs 3.2 7.7,3.2,7.7,mmol/L,,3

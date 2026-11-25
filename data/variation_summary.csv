@@ -1,0 +1,94 @@
+marker_slug,marker_name,sex,unit_common,n_labs,n_countries,labs,n_with_lower,lower_min,lower_max,lower_spread,lower_max_over_min,lower_min_lab|lower_max_lab,n_with_upper,upper_min,upper_max,upper_spread,upper_max_over_min,upper_min_lab|upper_max_lab,harmonised_intervals_for_comparison
+albumin-serum,"Albumin, Serum",F,g/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,31,35,4,1.13,synnovis|leeds,8,45,53,8,1.18,synnovis|ulm,pathology_harmony: 35–50 g/L; norip: 36–45 g/L
+albumin-serum,"Albumin, Serum",M,g/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,31,35,4,1.13,synnovis|leeds,8,45,53,8,1.18,synnovis|ulm,pathology_harmony: 35–50 g/L; norip: 36–45 g/L
+alp,Alkaline Phosphatase (ALP),F,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,30,55,25,1.83,chl|essen,8,104,150,46,1.44,mhh|chl,pathology_harmony: 30–130 U/L
+alp,Alkaline Phosphatase (ALP),M,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,30,40,10,1.33,chl|essen,8,129,150,21,1.16,mhh|chl,pathology_harmony: 30–130 U/L
+alt,Alanine Aminotransferase (ALT),F,U/L,9,4,chl|essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,3,0,10,10,,chl|oxford,9,30,40,10,1.33,chl|leeds,
+alt,Alanine Aminotransferase (ALT),M,U/L,9,4,chl|essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,3,0,10,10,,chl|oxford,9,35,50,15,1.43,oxford|essen,
+amylase,Amylase,F,U/L,3,1,mtw|oxford|synnovis,3,23,28,5,1.22,synnovis|mtw,3,96,125,29,1.3,synnovis|oxford,
+amylase,Amylase,M,U/L,3,1,mtw|oxford|synnovis,3,23,28,5,1.22,synnovis|mtw,3,96,125,29,1.3,synnovis|oxford,
+ast,Aspartate Aminotransferase (AST),F,U/L,8,4,chl|essen|iowa|leeds|mhh|mtw|oxford|synnovis,4,0,15,15,,iowa|oxford,8,31,50,19,1.61,mhh|chl,
+ast,Aspartate Aminotransferase (AST),M,U/L,8,4,chl|essen|iowa|leeds|mhh|mtw|oxford|synnovis,4,0,15,15,,iowa|oxford,8,34,50,16,1.47,oxford|chl,
+bicarbonate-co2,Bicarbonate (Total CO2),F,mmol/L,5,3,chl|leeds|oxford|synnovis|ulm,5,22,22,0,1,chl|chl,5,29,32,3,1.1,leeds|chl,pathology_harmony: 22–29 mmol/L
+bicarbonate-co2,Bicarbonate (Total CO2),M,mmol/L,5,3,chl|leeds|oxford|synnovis|ulm,5,22,22,0,1,chl|chl,5,29,32,3,1.1,leeds|chl,pathology_harmony: 22–29 mmol/L
+calcium-corrected,"Calcium, Corrected for Albumin",F,mmol/L,3,1,mtw|oxford|synnovis,3,2.08,2.2,0.12,1.06,synnovis|mtw,3,2.48,2.6,0.12,1.05,synnovis|mtw,pathology_harmony: 2.2–2.6 mmol/L; norip: 2.17–2.47 mmol/L
+calcium-corrected,"Calcium, Corrected for Albumin",M,mmol/L,3,1,mtw|oxford|synnovis,3,2.08,2.2,0.12,1.06,synnovis|mtw,3,2.48,2.6,0.12,1.05,synnovis|mtw,pathology_harmony: 2.2–2.6 mmol/L; norip: 2.17–2.47 mmol/L
+calcium-total,"Calcium, Total (Serum)",F,mmol/L,6,3,chl|essen|leeds|mhh|mtw|ulm,6,2.08,2.2,0.12,1.06,essen|chl,6,2.5,2.65,0.15,1.06,mhh|essen,norip: 2.15–2.51 mmol/L
+calcium-total,"Calcium, Total (Serum)",M,mmol/L,6,3,chl|essen|leeds|mhh|mtw|ulm,6,2.08,2.2,0.12,1.06,essen|chl,6,2.5,2.65,0.15,1.06,mhh|essen,norip: 2.15–2.51 mmol/L
+chloride-serum,"Chloride, Serum",F,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,95,98,3,1.03,chl|essen,8,105,110,5,1.05,mhh|chl,pathology_harmony: 95–108 mmol/L
+chloride-serum,"Chloride, Serum",M,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,95,98,3,1.03,chl|essen,8,105,110,5,1.05,mhh|chl,pathology_harmony: 95–108 mmol/L
+ck-total,Creatine Kinase Total,F,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,20,34,14,1.7,ulm|essen,8,145,200,55,1.38,essen|leeds,pathology_harmony: 25–200 U/L; norip: 35–210 U/L
+ck-total,Creatine Kinase Total,M,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,20,60,40,3,ulm|chl,8,171,320,149,1.87,essen|leeds,pathology_harmony: 40–320 U/L; norip: 50–400 U/L
+cortisol-am,"Cortisol, AM (Morning)",F,µg/dL,2,2,synnovis|ulm,2,3.697,4.82,1.123,1.3,synnovis|ulm,2,19.39,19.5,0.11,1.01,synnovis|ulm,
+cortisol-am,"Cortisol, AM (Morning)",M,µg/dL,2,2,synnovis|ulm,2,3.697,4.82,1.123,1.3,synnovis|ulm,2,19.39,19.5,0.11,1.01,synnovis|ulm,
+creatinine-serum,"Creatinine, Serum",F,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,45,49,4,1.09,chl|leeds,8,84,90,6,1.07,essen|chl,norip: 50–90 µmol/L
+creatinine-serum,"Creatinine, Serum",M,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,50,64,14,1.28,chl|oxford,8,103,115,12,1.12,essen|leeds,norip: 60–100 µmol/L
+crp,C-Reactive Protein,F,mg/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,1,0,0,0,,oxford|oxford,8,5,10,5,2,chl|leeds,
+crp,C-Reactive Protein,M,mg/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,1,0,0,0,,oxford|oxford,8,5,10,5,2,chl|leeds,
+ferritin,Ferritin,F,µg/L,9,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm|uvm,9,9,30,21,3.33,essen|leeds,9,112,337,225,3.01,ulm|leeds,
+ferritin,Ferritin,M,µg/L,9,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm|uvm,9,15,34,19,2.27,synnovis|ulm,9,200,400,200,2,synnovis|iowa,
+folate-serum,Folate (Serum),F,µg/L,6,2,essen|leeds|mhh|oxford|synnovis|ulm,6,3.1,5.4,2.3,1.74,oxford|leeds,4,20,26.8,6.8,1.34,oxford|mhh,
+folate-serum,Folate (Serum),M,µg/L,6,2,essen|leeds|mhh|oxford|synnovis|ulm,6,3.1,5.4,2.3,1.74,oxford|leeds,4,20,26.8,6.8,1.34,oxford|mhh,
+free-t4,Free Thyroxine,F,pmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,9,12.8,3.8,1.42,oxford|ulm,7,19,22.7,3.7,1.19,oxford|essen,
+free-t4,Free Thyroxine,M,pmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,9,12.8,3.8,1.42,oxford|ulm,7,19,22.7,3.7,1.19,oxford|essen,
+ggt,Gamma-Glutamyl Transferase (GGT),F,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,4,0,10,10,,oxford|chl,8,35,55,20,1.57,chl|oxford,
+ggt,Gamma-Glutamyl Transferase (GGT),M,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,4,0,12,12,,oxford|leeds,8,38,71,33,1.87,oxford|mtw,
+glucose-fasting,"Glucose, Fasting",F,mmol/L,4,2,chl|essen|mhh|ulm,4,3.5,4.11,0.61,1.17,chl|essen,4,5.495,6,0.505,1.09,ulm|chl,norip: 4–6 mmol/L
+glucose-fasting,"Glucose, Fasting",M,mmol/L,4,2,chl|essen|mhh|ulm,4,3.5,4.11,0.61,1.17,chl|essen,4,5.495,6,0.505,1.09,ulm|chl,norip: 4–6 mmol/L
+hba1c,Hemoglobin A1c,F,mmol/mol,4,2,mhh|oxford|synnovis|ulm,4,20,29,9,1.45,oxford|mhh,4,38,42,4,1.11,mhh|ulm,
+hba1c,Hemoglobin A1c,M,mmol/mol,4,2,mhh|oxford|synnovis|ulm,4,20,29,9,1.45,oxford|mhh,4,38,42,4,1.11,mhh|ulm,
+hematocrit,Hematocrit,F,L/L,4,2,essen|leeds|mhh|ulm,4,0.355,0.37,0.015,1.04,mhh|essen,4,0.455,0.5,0.045,1.1,mhh|ulm,
+hematocrit,Hematocrit,M,L/L,4,2,essen|leeds|mhh|ulm,4,0.36,0.4,0.04,1.11,ulm|essen,4,0.5,0.52,0.02,1.04,essen|leeds,
+hemoglobin,Hemoglobin,F,g/dL,4,2,essen|leeds|mhh|ulm,4,12,12.3,0.3,1.03,essen|ulm,4,15.2,17.4,2.2,1.14,essen|ulm,
+hemoglobin,Hemoglobin,M,g/dL,4,2,essen|leeds|mhh|ulm,4,12.3,13.7,1.4,1.11,ulm|essen,4,17.2,18,0.8,1.05,essen|leeds,
+ldh,Lactate Dehydrogenase (LDH),F,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,50,135,85,2.7,mhh|mtw,8,214,250,36,1.17,mtw|ulm,
+ldh,Lactate Dehydrogenase (LDH),M,U/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,50,135,85,2.7,mhh|mtw,8,220,250,30,1.14,chl|ulm,
+lipase,Lipase,F,U/L,6,3,chl|essen|mhh|oxford|synnovis|ulm,5,8,13,5,1.62,oxford|mhh,6,53,78,25,1.47,essen|oxford,
+lipase,Lipase,M,U/L,6,3,chl|essen|mhh|oxford|synnovis|ulm,5,8,13,5,1.62,oxford|mhh,6,53,78,25,1.47,essen|oxford,
+lymphocytes-absolute,Lymphocytes (Absolute),F,10^9/L,3,2,leeds|mhh|ulm,3,1,1.2,0.2,1.2,leeds|ulm,3,3.5,4.6,1.1,1.31,ulm|mhh,
+lymphocytes-absolute,Lymphocytes (Absolute),M,10^9/L,3,2,leeds|mhh|ulm,3,1,1.2,0.2,1.2,leeds|ulm,3,3.5,4.6,1.1,1.31,ulm|mhh,
+magnesium-serum,"Magnesium, Serum",F,mmol/L,7,3,chl|essen|leeds|mhh|mtw|oxford|ulm,7,0.6,0.77,0.17,1.28,chl|mhh,7,1,1.2,0.2,1.2,leeds|chl,pathology_harmony: 0.7–1 mmol/L; norip: 0.71–0.94 mmol/L
+magnesium-serum,"Magnesium, Serum",M,mmol/L,7,3,chl|essen|leeds|mhh|mtw|oxford|ulm,7,0.6,0.73,0.13,1.22,chl|mhh,7,1,1.2,0.2,1.2,leeds|chl,pathology_harmony: 0.7–1 mmol/L; norip: 0.71–0.94 mmol/L
+mcv,Mean Corpuscular Volume,F,fL,4,2,essen|leeds|mhh|ulm,4,78,85,7,1.09,leeds|essen,4,96,100,4,1.04,ulm|leeds,
+mcv,Mean Corpuscular Volume,M,fL,4,2,essen|leeds|mhh|ulm,4,80,83,3,1.04,leeds|essen,4,96,100,4,1.04,ulm|leeds,
+neutrophils-absolute,Neutrophils (Absolute),F,10^9/L,2,2,leeds|ulm,2,1.3,1.5,0.2,1.15,ulm|leeds,2,6.7,7,0.3,1.04,ulm|leeds,
+neutrophils-absolute,Neutrophils (Absolute),M,10^9/L,2,2,leeds|ulm,2,1.3,1.5,0.2,1.15,ulm|leeds,2,6.7,7,0.3,1.04,ulm|leeds,
+phosphorus-serum,"Phosphorus/Phosphate, Serum",F,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,0.8,0.87,0.07,1.09,chl|essen,8,1.45,1.5,0.05,1.03,essen|chl,pathology_harmony: 0.8–1.5 mmol/L; norip: 0.85–1.5 mmol/L
+phosphorus-serum,"Phosphorus/Phosphate, Serum",M,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,0.8,0.87,0.07,1.09,chl|essen,8,1.45,1.5,0.05,1.03,essen|chl,pathology_harmony: 0.8–1.5 mmol/L; norip: 0.75–1.65 mmol/L
+platelet-count,Platelet Count,F,10^9/L,4,2,essen|leeds|mhh|ulm,4,150,180,30,1.2,leeds|essen,4,370,450,80,1.22,mhh|ulm,
+platelet-count,Platelet Count,M,10^9/L,4,2,essen|leeds|mhh|ulm,4,140,150,10,1.07,essen|leeds,4,320,450,130,1.41,essen|ulm,
+potassium-serum,"Potassium, Serum",F,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,3.4,3.7,0.3,1.09,ulm|mhh,8,4.5,5.3,0.8,1.18,ulm|leeds,pathology_harmony: 3.5–5.3 mmol/L; norip: 3.6–4.6 mmol/L
+potassium-serum,"Potassium, Serum",M,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,3.4,3.7,0.3,1.09,ulm|mhh,8,4.5,5.3,0.8,1.18,ulm|leeds,pathology_harmony: 3.5–5.3 mmol/L; norip: 3.6–4.6 mmol/L
+prolactin,Prolactin,F,mIU/L,4,1,leeds|mtw|oxford|synnovis,3,102,110,8,1.08,mtw|oxford,4,496,600,104,1.21,mtw|leeds,
+prolactin,Prolactin,M,mIU/L,4,1,leeds|mtw|oxford|synnovis,3,70,86,16,1.23,oxford|mtw,4,140,550,410,3.93,oxford|leeds,
+psa-total,"Prostate-Specific Antigen, Total (PSA)",M,µg/L,3,1,essen|mhh|ulm,0,,,,,,3,1.4,4,2.6,2.86,mhh|essen,
+rbc,Red Blood Cell Count,F,10^12/L,4,2,essen|leeds|mhh|ulm,4,3.8,4.5,0.7,1.18,leeds|ulm,4,5.1,5.9,0.8,1.16,essen|ulm,
+rbc,Red Blood Cell Count,M,10^12/L,4,2,essen|leeds|mhh|ulm,4,4.3,4.5,0.2,1.05,mhh|essen,4,5.6,6.5,0.9,1.16,essen|leeds,
+serum-iron,Serum Iron,F,µmol/L,8,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,8,5.8,11,5.2,1.9,mtw|oxford,8,25.96,35,9.04,1.35,iowa|mhh,norip: 9–34 µmol/L
+serum-iron,Serum Iron,M,µmol/L,8,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,8,5.8,11.6,5.8,2,mtw|leeds,8,28.28,35,6.72,1.24,iowa|mhh,norip: 9–34 µmol/L
+shbg,Sex Hormone Binding Globulin,F,nmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,18.2,34.3,16.1,1.88,leeds|synnovis,7,128,162,34,1.27,mhh|essen,
+shbg,Sex Hormone Binding Globulin,M,nmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,10,18.3,8.3,1.83,essen|mhh,7,43,89.5,46.5,2.08,essen|leeds,
+sodium-serum,"Sodium, Serum",F,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,133,136,3,1.02,leeds|essen,8,145,146,1,1.01,chl|leeds,pathology_harmony: 133–146 mmol/L; norip: 137–145 mmol/L
+sodium-serum,"Sodium, Serum",M,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,133,136,3,1.02,leeds|essen,8,145,146,1,1.01,chl|leeds,pathology_harmony: 133–146 mmol/L; norip: 137–145 mmol/L
+testosterone-total,"Testosterone, Total",F,nmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,6,0,0.5,0.5,,leeds|synnovis,7,1.666,2.8,1.134,1.68,mhh|leeds,
+testosterone-total,"Testosterone, Total",M,nmol/L,7,2,essen|leeds|mhh|mtw|oxford|synnovis|ulm,7,5.72,11.4,5.68,1.99,essen|mtw,7,26.14,32,5.86,1.22,essen|oxford,
+tibc,Total Iron Binding Capacity,F,µmol/L,3,3,iowa|leeds|mhh,3,42.07,45,2.93,1.07,iowa|leeds,3,76,81,5,1.07,leeds|mhh,norip: 49–83 µmol/L
+tibc,Total Iron Binding Capacity,M,µmol/L,3,3,iowa|leeds|mhh,3,42.07,45,2.93,1.07,iowa|leeds,3,76,81,5,1.07,leeds|mhh,norip: 49–83 µmol/L
+total-bilirubin,Total Bilirubin,F,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,5,0,5.13,5.13,,oxford|essen,8,20,21,1,1.05,chl|leeds,pathology_harmony: <21 µmol/L; norip: 5–25 µmol/L
+total-bilirubin,Total Bilirubin,M,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,5,0,5.13,5.13,,oxford|essen,8,20,21,1,1.05,chl|leeds,pathology_harmony: <21 µmol/L; norip: 5–25 µmol/L
+total-protein,"Total Protein, Serum",F,g/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,60,66,6,1.1,leeds|ulm,8,80,83,3,1.04,leeds|chl,pathology_harmony: 60–80 g/L; norip: 62–78 g/L
+total-protein,"Total Protein, Serum",M,g/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,60,66,6,1.1,leeds|ulm,8,80,83,3,1.04,leeds|chl,pathology_harmony: 60–80 g/L; norip: 62–78 g/L
+transferrin,Transferrin,F,g/L,6,3,essen|iowa|mtw|oxford|synnovis|ulm,6,1.7,2.5,0.8,1.47,oxford|essen,6,3.6,3.82,0.22,1.06,iowa|synnovis,
+transferrin,Transferrin,M,g/L,6,3,essen|iowa|mtw|oxford|synnovis|ulm,6,1.7,2.15,0.45,1.26,oxford|essen,6,3.6,3.65,0.05,1.01,iowa|essen,
+transferrin-saturation,Transferrin Saturation,F,%,5,3,iowa|mhh|mtw|oxford|synnovis,5,15,20,5,1.33,iowa|oxford,5,45,55,10,1.22,mhh|oxford,norip: 10–50 %
+transferrin-saturation,Transferrin Saturation,M,%,5,3,iowa|mhh|mtw|oxford|synnovis,5,15,20,5,1.33,mhh|iowa,5,45,55,10,1.22,mhh|oxford,norip: 15–57 %
+tsh,Thyroid Stimulating Hormone,F,mIU/L,8,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,8,0.2,0.4,0.2,2,leeds|ulm,8,3,4.94,1.94,1.65,essen|oxford,
+tsh,Thyroid Stimulating Hormone,M,mIU/L,8,3,essen|iowa|leeds|mhh|mtw|oxford|synnovis|ulm,8,0.2,0.4,0.2,2,leeds|ulm,8,3,4.94,1.94,1.65,essen|oxford,
+urea,Urea (Serum),F,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,2.1,3.2,1.1,1.52,essen|chl,8,6.7,7.8,1.1,1.16,ulm|leeds,pathology_harmony: 2.5–7.8 mmol/L; norip: 2.6–6.4 mmol/L
+urea,Urea (Serum),M,mmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,2.1,3.2,1.1,1.52,essen|chl,8,7.1,7.8,0.7,1.1,essen|leeds,pathology_harmony: 2.5–7.8 mmol/L; norip: 3.2–8.1 mmol/L
+uric-acid,"Uric Acid, Serum",F,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,137,154.7,17.7,1.13,ulm|essen,8,340,363,23,1.07,mhh|ulm,pathology_harmony: 140–360 µmol/L; norip: 155–350 µmol/L
+uric-acid,"Uric Acid, Serum",M,µmol/L,8,3,chl|essen|leeds|mhh|mtw|oxford|synnovis|ulm,8,200,214,14,1.07,chl|ulm,8,416,430,14,1.03,ulm|leeds,pathology_harmony: 200–430 µmol/L; norip: 230–480 µmol/L
+vitamin-b12,Vitamin B12 (Cobalamin),F,ng/L,6,3,essen|iowa|leeds|mhh|synnovis|ulm,6,182,232,50,1.27,synnovis|iowa,6,692,1245,553,1.8,synnovis|iowa,
+vitamin-b12,Vitamin B12 (Cobalamin),M,ng/L,6,3,essen|iowa|leeds|mhh|synnovis|ulm,6,182,232,50,1.27,synnovis|iowa,6,692,1245,553,1.8,synnovis|iowa,
+wbc,White Blood Cell Count,F,10^9/L,4,2,essen|leeds|mhh|ulm,4,3.5,4.4,0.9,1.26,leeds|ulm,4,9.2,11.3,2.1,1.23,essen|ulm,
+wbc,White Blood Cell Count,M,10^9/L,4,2,essen|leeds|mhh|ulm,4,3.5,4.4,0.9,1.26,leeds|ulm,4,9.2,11.3,2.1,1.23,essen|ulm,

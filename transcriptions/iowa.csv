@@ -1,0 +1,15 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Ferritin,ferritin,plasma,M,Adult male,18,,Adult male 30 - 400 ng/mL,30,400,ng/mL,Roche ECLIA (manufacturer's range),test793
+Ferritin,ferritin,plasma,F,Adult female,18,,Adult female 13 - 150 ng/mL,13,150,ng/mL,Roche ECLIA (manufacturer's range),test793
+Thyroid Stimulating Hormone (TSH),tsh,serum/plasma,all,19+ years,19,,19+ years | 0.27 – 4.20 µIU/mL,0.27,4.20,µIU/mL,ECLIA,test1827
+Vitamin B12,vitamin-b12,plasma,all,adult,,,Normal: 232 - 1245 pg/mL,232,1245,pg/mL,ECLIA,test74
+Iron,serum-iron,plasma,M,Adult males,18,,Adult males: 59-158 μg/dL,59,158,μg/dL,colorimetric,test1151
+Iron,serum-iron,plasma,F,Adult Females,18,,Adult Females: 37-145 μg/dL,37,145,μg/dL,colorimetric,test1151
+Transferrin,transferrin,plasma,all,adult,,,Transferrin: 200-360 mg/dL,200,360,mg/dL,immunoturbidimetric,test1151
+TIBC,tibc,plasma,all,adult,,,TIBC: 235–451 μg/dL,235,451,μg/dL,calculated from transferrin,test1151
+Iron (transferrin) saturation,transferrin-saturation,plasma,M,18 Years up to Unspecified,18,,Males: 20-50%,20,50,%,calculated,test1151
+Iron (transferrin) saturation,transferrin-saturation,plasma,F,18 Years up to Unspecified,18,,Females: 15-50%,15,50,%,calculated,test1151
+AST,ast,plasma,M,Adult Male,18,,Adult Male | 0 – 50 U/L,0,50,U/L,new assay from 2025-02-25,LabBroadcast_2025_2_21
+AST,ast,plasma,F,Adult Female,18,,Adult Female | 0 – 35 U/L,0,35,U/L,new assay from 2025-02-25,LabBroadcast_2025_2_21
+ALT,alt,plasma,M,Adult Male,18,,Adult Male | 0 – 50 U/L | 0 – 50 U/L,0,50,U/L,new assay from 2025-02-25,LabBroadcast_2025_2_21
+ALT,alt,plasma,F,Adult Female,18,,Adult Female | 0 – 35 U/L | 0 – 35 U/L,0,35,U/L,new assay from 2025-02-25,LabBroadcast_2025_2_21

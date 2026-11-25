@@ -1,0 +1,58 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Albumin,albumin-serum,not stated,all,≥ 19,19,,≥ 19 31 - 45,31,45,g/L,,3
+Alkaline Phosphatase (ALP),alp,not stated,all,≥ 16 years,16,,≥ 16 years 30 - 130,30,130,U/L,,3
+ALT,alt,not stated,M,≥ 19 years,19,,≥ 19 years < 45 < 34,,45,U/L,,3
+ALT,alt,not stated,F,≥ 19 years,19,,≥ 19 years < 45 < 34,,34,U/L,,3
+"Amylase, Total",amylase,not stated,all,≥ 18 years,18,,≥ 18 years 23 - 96,23,96,U/L,,3
+AST,ast,not stated,M,≥ 19 years,19,,≥ 19 years 5 - 34 5 - 31,5,34,U/L,,4
+AST,ast,not stated,F,≥ 19 years,19,,≥ 19 years 5 - 34 5 - 31,5,31,U/L,,4
+Bicarbonate,bicarbonate-co2,not stated,all,≥ 16 years,16,,≥ 16 years 22 - 29,22,29,mmol/L,,4
+"Bilirubin, Total",total-bilirubin,not stated,all,All,,,<21,,21,µmol/L,,4
+"Calcium, Adjusted",calcium-corrected,not stated,all,All,,,2.08 - 2.48,2.08,2.48,mmol/L,,5
+Chloride,chloride-serum,not stated,all,All,,,95 - 108,95,108,mmol/L,,5
+"Cholesterol, HDL",hdl-cholesterol,not stated,M,All,,,0.9 - 1.7 0.9 - 2.0,0.9,1.7,mmol/L,,5
+"Cholesterol, HDL",hdl-cholesterol,not stated,F,All,,,0.9 - 1.7 0.9 - 2.0,0.9,2.0,mmol/L,,5
+Cortisol,cortisol-am,not stated,all,All (Before 10 am),,,102 - 535 (Before 10 am),102,535,nmol/L,,5
+Creatine Kinase,ck-total,not stated,M,All,,,40 - 320 25 - 200,40,320,U/L,,5
+Creatine Kinase,ck-total,not stated,F,All,,,40 - 320 25 - 200,25,200,U/L,,5
+Creatinine,creatinine-serum,not stated,M,≥ 19 years,19,,≥ 19 years 64 - 104 49 - 90,64,104,µmol/L,,6
+Creatinine,creatinine-serum,not stated,F,≥ 19 years,19,,≥ 19 years 64 - 104 49 - 90,49,90,µmol/L,,6
+CRP,crp,not stated,all,All,,,<5,,5,mg/L,,6
+Ferritin,ferritin,not stated,M,≥ 6 years,6,,≥ 6 years 15-200 15 - 150,15,200,µg/L,,6
+Ferritin,ferritin,not stated,F,≥ 6 years,6,,≥ 6 years 15-200 15 - 150,15,150,µg/L,,6
+Folate,folate-serum,not stated,all,All,,,3.1 - 20.5,3.1,20.5,ug/L,,6
+GGT,ggt,not stated,M,All,,,<55 <38,,55,U/L,,7
+GGT,ggt,not stated,F,All,,,<55 <38,,38,U/L,,7
+Glucose,glucose-fasting,not stated,all,All,,,4.0 - 6.0 (fasting - normal),4.0,6.0,mmol/L,,7
+HbA1c,hba1c,not stated,all,All,,,20 - 41,20,41,mmol/mol,,7
+Iron,serum-iron,not stated,M,All,,,11.6-31.6 9.0-30.4,11.6,31.6,µmol/L,,7
+Iron,serum-iron,not stated,F,All,,,11.6-31.6 9.0-30.4,9.0,30.4,µmol/L,,7
+Lactate Dehydrogenase,ldh,not stated,all,All,,,125 - 220,125,220,U/L,,8
+"Lipase (Hub, RBHH, DH)",lipase,not stated,all,All,,,< 65,,65,U/L,,8
+Phosphate,phosphorus-serum,not stated,all,≥ 16 years,16,,≥ 16 years 0.80 - 1.50,0.80,1.50,mmol/L,,9
+Potassium,potassium-serum,not stated,all,≥ 16 years,16,,≥ 16 years 3.5 - 5.3,3.5,5.3,mmol/L,,10
+Prolactin,prolactin,not stated,M,All,,,73 - 407 109 - 557,73,407,mIU/L,,10
+Prolactin,prolactin,not stated,F,All,,,73 - 407 109 - 557,109,557,mIU/L,,10
+"Prostate Specific Antigen (PSA), Total",psa-total,not stated,M,40 - 49 years,40,49,40 - 49 years < 2.49,,2.49,µg/L,,10
+"Prostate Specific Antigen (PSA), Total",psa-total,not stated,M,50 - 59 years,50,59,50 - 59 years < 3.49,,3.49,µg/L,,10
+"Prostate Specific Antigen (PSA), Total",psa-total,not stated,M,60 - 69 years,60,69,60 - 69 years < 4.49,,4.49,µg/L,,10
+"Prostate Specific Antigen (PSA), Total",psa-total,not stated,M,70 - 79 years,70,79,70 - 79 years < 6.49,,6.49,µg/L,,10
+"Protein, Total",total-protein,not stated,all,≥ 16 years,16,,≥ 16 years 60 - 80,60,80,g/L,,10
+Sex Hormone Binding Globulin (SHBG),shbg,not stated,M,< 50 years,,49,< 50 years 17.1 - 77.6 34.3 - 147.7,17.1,77.6,nmol/L,,11
+Sex Hormone Binding Globulin (SHBG),shbg,not stated,F,< 50 years,,49,< 50 years 17.1 - 77.6 34.3 - 147.7,34.3,147.7,nmol/L,,11
+Sex Hormone Binding Globulin (SHBG),shbg,not stated,F,> 50 years,51,,> 50 years 26.4 - 118.0,26.4,118.0,nmol/L,,11
+Sodium,sodium-serum,not stated,all,All,,,133 - 146,133,146,mmol/L,,11
+"T4, Free (fT4)",free-t4,not stated,all,All,,,9.0 - 19.1,9.0,19.1,pmol/L,,11
+Testosterone (Hub),testosterone-total,not stated,M,< 50 years,,49,< 50 years 8.3 - 30.2 0.5 - 1.9,8.3,30.2,nmol/L,Hub site assay,11
+Testosterone (Hub),testosterone-total,not stated,F,< 50 years,,49,< 50 years 8.3 - 30.2 0.5 - 1.9,0.5,1.9,nmol/L,Hub site assay,11
+Testosterone (Hub),testosterone-total,not stated,M,≥ 50 years,50,,≥ 50 years 7.7 - 24.8 0.4 - 1.2,7.7,24.8,nmol/L,Hub site assay,11
+Testosterone (Hub),testosterone-total,not stated,F,≥ 50 years,50,,≥ 50 years 7.7 - 24.8 0.4 - 1.2,0.4,1.2,nmol/L,Hub site assay,11
+Thyroid Simulating Hormone (TSH),tsh,not stated,all,All,,,0.35 - 4.94,0.35,4.94,mIU/L,,11
+Transferrin,transferrin,not stated,M,14 - 59 years,14,59,14 - 59 years 1.74 - 3.64 1.80 - 3.82,1.74,3.64,g/L,,11
+Transferrin,transferrin,not stated,F,14 - 59 years,14,59,14 - 59 years 1.74 - 3.64 1.80 - 3.82,1.80,3.82,g/L,,11
+Transferrin Saturation,transferrin-saturation,not stated,all,All,,,20 - 45,20,45,%,,11
+Urate / Uric acid,uric-acid,not stated,M,All,,,200 - 430 140 - 360,200,430,μmol/L,,12
+Urate / Uric acid,uric-acid,not stated,F,All,,,200 - 430 140 - 360,140,360,μmol/L,,12
+Urea,urea,not stated,all,≥ 16 years,16,,≥ 16 years 2.5 - 7.8,2.5,7.8,mmol/L,,12
+Vitamin B12,vitamin-b12,not stated,all,≥ 15 years,15,,"≥ 15 years 182 - 692",182,692,ng/L,,12
+Vitamin D,vitamin-d-25-oh,not stated,all,All,,,>50,50,,nmol/L,,12

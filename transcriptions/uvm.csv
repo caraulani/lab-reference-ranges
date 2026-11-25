@@ -1,0 +1,3 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Ferritin,ferritin,not stated,M,≥18 years,18,,Male 22 ng/mL 322 ng/mL 30 ng/mL 322 ng/mL,30,322,ng/mL,new interval effective 2025-05-27,1
+Ferritin,ferritin,not stated,F,≥18 years,18,,Female 10 ng/mL 291 ng/mL 30 ng/mL 291 ng/mL,30,291,ng/mL,new interval effective 2025-05-27,1

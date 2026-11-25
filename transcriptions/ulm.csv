@@ -1,0 +1,69 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Alanin-Aminotransferase (ALT),alt,Li-heparin plasma,F,Erwachsene,18,,< 35 U/l (w),,35,U/l,with pyridoxal phosphate,Alanin_Aminotransferase-3
+Alanin-Aminotransferase (ALT),alt,Li-heparin plasma,M,Erwachsene,18,,< 50 U/l (m),,50,U/l,with pyridoxal phosphate,Alanin_Aminotransferase-3
+Albumin im Plasma,albumin-serum,plasma,all,Erwachsene,18,,35 - 53 g/l,35,53,g/l,,Albumin_im_Plasma_und_Sondermaterial-2
+Bilirubin total,total-bilirubin,plasma,all,Erwachsene,18,,2 – 21 µmol/l,2,21,µmol/l,,Bilirubin_total-2
+C-reaktives Protein,crp,plasma,all,adult,,,< 5 mg/l,,5,mg/l,,C-reaktives_Protein-2
+Calcium,calcium-total,plasma,all,Erwachsene,18,,"2,1 – 2,6 mmol/l",2.1,2.6,mmol/l,,Calcium-2
+Chlorid,chloride-serum,plasma,all,adult,,,95 – 105,95,105,mmol/l,,Chlorid-2
+Cortisol,cortisol-am,serum,all,Erwachsene 6-10 Uhr,18,,"4,82 – 19,5 µg/dl",4.82,19.5,µg/dl,,Cortisol-2
+Creatinkinase,ck-total,plasma,F,>18 Jahre weiblich,18,,>18 Jahre weiblich 20 – 180 U/l,20,180,U/l,,Creatinkinase-2
+Creatinkinase,ck-total,plasma,M,>18 Jahre männlich,18,,>18 Jahre männlich 20 – 200 U/l,20,200,U/l,,Creatinkinase-2
+Eisen im Plasma,serum-iron,plasma,all,Erwachsene,18,,"5,83 - 34,5 µmol/l",5.83,34.5,µmol/l,,Eisen_im_Plasma-2
+Ferritin,ferritin,Li-heparin plasma,F,Frauen 18 - 50 Jahre,18,50,22 - 112 µg/l,22,112,µg/l,Roche Elecsys (cobas e801),Ferritin-4
+Ferritin,ferritin,Li-heparin plasma,M,Männer 18 – 50 Jahre,18,50,34 – 310 ug/l,34,310,ug/l,Roche Elecsys (cobas e801),Ferritin-4
+Ferritin,ferritin,Li-heparin plasma,F,Frauen ab 51 Jahre,51,,13 - 651 µg/l,13,651,µg/l,Roche Elecsys (cobas e801),Ferritin-4
+Ferritin,ferritin,Li-heparin plasma,M,Männer ab 51 Jahre,51,,30 - 300 µg/l,30,300,µg/l,Roche Elecsys (cobas e801),Ferritin-4
+Folsäure,folate-serum,not stated,all,adult,,,"> 8,8 nmol/l",8.8,,nmol/l,,Folsaeure-2
+Gesamt-Bicarbonat,bicarbonate-co2,not stated,all,Erwachsene,18,,22·29 mmol/l,22,29,mmol/l,,Gesamt-Bicarbonat-2
+Gesamtprotein,total-protein,plasma and serum,all,Erwachsene,18,,66 – 83 g/l,66,83,g/l,,Gesamtprotein_im_Plasma_und_Serum-2
+Glucose,glucose-fasting,plasma (fasting),all,Erwachsene,18,,Plasma nüchtern: 74 - 99 mg/dl,74,99,mg/dl,,Glucose-3
+Harnsäure,uric-acid,plasma,F,Erwachsene,18,,(w) 137 – 363,137,363,µmol/l,,Harnsaeure-2
+Harnsäure,uric-acid,plasma,M,Erwachsene,18,,(m) 214 – 416 µmol/l,214,416,µmol/l,,Harnsaeure-2
+Harnstoff,urea,plasma,F,weiblich bis 50 J,18,50,"weiblich bis 50 J 2,6 - 6,7 mmol/l",2.6,6.7,mmol/l,,Harnstoff-2
+Harnstoff,urea,plasma,M,männlich bis 50 J,18,50,"männlich bis 50 J 3,2 - 7,3 mmol/l",3.2,7.3,mmol/l,,Harnstoff-2
+HbA1c (IFCC),hba1c,EDTA whole blood,all,Erwachsene,18,,HbA1c (IFCC): 20 – 42 mmol/mol,20,42,mmol/mol,Tosoh HPLC,HbA1c-4
+HbA1c (NGSP),hba1c,EDTA whole blood,all,Erwachsene,18,,"HbA1c (NGSP): 4,0 – 6,0 %",4.0,6.0,%,Tosoh HPLC,HbA1c-4
+Kalium,potassium-serum,plasma,all,adult,,,"3,4 – 4,5",3.4,4.5,mmol/l,,Kalium-2
+Kreatinin,creatinine-serum,plasma,F,Erwachsene,18,,weiblich 45 - 84 µmol/l,45,84,µmol/l,,Kreatinin-3
+Kreatinin,creatinine-serum,plasma,M,Erwachsene,18,,männlich 59-104 µmol/l,59,104,µmol/l,,Kreatinin-3
+LDH,ldh,plasma,all,Erwachsene,18,,Plasma: < 250 U/l,,250,U/l,,LDH-2
+Lipase,lipase,plasma,all,Erwachsene,18,,Plasma 13 – 60 U/l,13,60,U/l,,Lipase-2
+Magnesium,magnesium-serum,not stated,all,20 bis 60 Jahre,20,60,"20 bis 60 Jahre 0,66 - 1,07 mmol/l",0.66,1.07,mmol/l,,Magnesium-2
+Natrium,sodium-serum,plasma,all,adult,,,135 – 145,135,145,mmol/l,,Natrium-2
+Phosphat,phosphorus-serum,plasma,all,Erwachsene,18,,"Plasma: 0,84 - 1,45 mmol/l",0.84,1.45,mmol/l,,Phosphat-2
+PSA (tPSA),psa-total,not stated,M,< 40 Jahre (95% Perzentile),,39,"< 40 45 0,57 1,4",,1.4,µg/l,,PSA-2
+PSA (tPSA),psa-total,not stated,M,40 – 49 Jahre (95% Perzentile),40,49,"40 – 49 42 0,59 2,0",,2.0,µg/l,,PSA-2
+PSA (tPSA),psa-total,not stated,M,50 – 59 Jahre (95% Perzentile),50,59,"50 – 59 107 0,75 3,1",,3.1,µg/l,,PSA-2
+PSA (tPSA),psa-total,not stated,M,60 – 69 Jahre (95% Perzentile),60,69,"60 – 69 41 1,65 4,1",,4.1,µg/l,,PSA-2
+PSA (tPSA),psa-total,not stated,M,>/= 70 Jahre (95% Perzentile),70,,">/= 70 9 1,73 4,4",,4.4,µg/l,,PSA-2
+SHBG,shbg,not stated,F,Frauen: 20-49 Jahre,20,49,"Frauen: 20-49 Jahre 32,4 – 128 nmol/l",32.4,128,nmol/l,,SHBG-2
+SHBG,shbg,not stated,F,Frauen: > 50 Jahre,50,,"Frauen: > 50 Jahre 27,1 – 128 nmol/l",27.1,128,nmol/l,,SHBG-2
+SHBG,shbg,not stated,M,Männer: 20-49 Jahre,20,49,"Männer: 20-49 Jahre 18,3 – 54,1 nmol/l",18.3,54.1,nmol/l,,SHBG-2
+SHBG,shbg,not stated,M,Männer: > 50 Jahre,50,,"Männer: > 50 Jahre 20,6 – 76,7 nmol/l",20.6,76.7,nmol/l,,SHBG-2
+Testosteron,testosterone-total,not stated,M,Männer 18 - 49 Jahre,18,49,"18 - 49 Jahre: 2,49 - 8,36 µg/l",2.49,8.36,µg/l,Roche,Testosteron-2
+Testosteron,testosterone-total,not stated,M,Männer >50 Jahre,50,,"Männer >50 Jahre: 1,93 - 7,40 µg/l",1.93,7.40,µg/l,Roche,Testosteron-2
+Testosteron,testosterone-total,not stated,F,Frauen 18 - 49 Jahre,18,49,"18 - 49 Jahre: 0,084 - 0,481µg/l",0.084,0.481,µg/l,Roche,Testosteron-2
+Testosteron,testosterone-total,not stated,F,Frauen >50 Jahre,50,,"Frauen >50 Jahre: 0,029 – 0,408 µg/l",0.029,0.408,µg/l,Roche,Testosteron-2
+Transferrin,transferrin,Li-heparin plasma,all,Erwachsene,18,,"2,0 - 3,6 g/l",2.0,3.6,g/l,Roche cobas c,Transferrin-2
+TSH,tsh,not stated,all,Erwachsene,18,,"0,400 – 3,770 mIU/l",0.400,3.770,mIU/l,Roche Elecsys (cobas e801),TSH-2
+freies Thyroxin (fT4),free-t4,not stated,all,Erwachsene,18,,"12,8-20,4 pmol/l",12.8,20.4,pmol/l,Roche Elecsys,freies_Thyroxin_-2
+Vitamin B12,vitamin-b12,not stated,all,Erwachsene,18,,145–569 pmol/l,145,569,pmol/l,Roche Elecsys Vitamin B12 II,Vitamin_B12-2
+Vitamin D total,vitamin-d-25-oh,not stated,all,adult,,,20-50 µg/l,20,50,µg/l,,Vitamin_D_total-2
+alkalische Phosphatase,alp,not stated,M,Erwachsene,18,,Männlich: 40 – 130 U/l,40,130,U/l,Roche,alkalische_Phosphatase-3
+alkalische Phosphatase,alp,not stated,F,Erwachsene,18,,Weiblich: 35 – 105 U/l,35,105,U/l,Roche,alkalische_Phosphatase-3
+gamma-Glutamyl-Transferase,ggt,plasma,F,Erwachsene,18,,< 40 U/l (w),,40,U/l,,gamma-Glutamyl-Transferase-2
+gamma-Glutamyl-Transferase,ggt,plasma,M,Erwachsene,18,,< 60 U/l (m),,60,U/l,,gamma-Glutamyl-Transferase-2
+Erythrozyten,rbc,EDTA whole blood,all,Erwachsene,18,,"Erythrozyten 4,5 – 5,9 Tera/l",4.5,5.9,Tera/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Leukozyten,wbc,EDTA whole blood,all,Erwachsene,18,,"Leukozyten 4,4 – 11,3 Giga/l",4.4,11.3,Giga/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Hämoglobin,hemoglobin,EDTA whole blood,all,Erwachsene,18,,"Hämoglobin 12,3 – 17,4 g/dl",12.3,17.4,g/dl,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Hämatokrit,hematocrit,EDTA whole blood,all,Erwachsene,18,,"Hämatokrit 0,36 – 0,50 l/l",0.36,0.50,l/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+MCV,mcv,EDTA whole blood,all,Erwachsene,18,,"MCV 80,0 – 96,0 fl",80.0,96.0,fl,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Thrombozyten,platelet-count,EDTA whole blood,all,Erwachsene,18,,Thrombozyten 150 – 450 Giga/l,150,450,Giga/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Lymphozyten absolut,lymphocytes-absolute,EDTA whole blood,all,Erwachsene,18,,"Lymphozyten absolut 1,2 – 3,5 Giga/l",1.2,3.5,Giga/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Neutrophile Granulozyten absolut,neutrophils-absolute,EDTA whole blood,all,Erwachsene,18,,"absolut 1,3 – 6,7 Giga/l",1.3,6.7,Giga/l,,Kleines_Blutbild_und_maschinelle_Differenzierung-3
+Cholesterin,total-cholesterol,plasma,all,adult (Zielbereich),,,"< 5,0 mmol/l",,5.0,mmol/l,,Cholesterin-2
+HDL-Cholesterin,hdl-cholesterol,plasma,F,adult (Zielbereich),,,"Frauen: > 1,2 mmol/l",1.2,,mmol/l,,HDL-Cholesterin___Non-HDL-Cholesterin-2
+HDL-Cholesterin,hdl-cholesterol,plasma,M,adult (Zielbereich),,,"Männer: > 1,0 mmol/l",1.0,,mmol/l,,HDL-Cholesterin___Non-HDL-Cholesterin-3
+LDL-Cholesterin,ldl-cholesterol,plasma,all,adult without risk factors (Zielbereich),,,"< 3,0 mmol/l",,3.0,mmol/l,,LDL-Cholesterin-2
+Triglyceride,triglycerides,plasma,all,adult (Zielbereich),,,"< 1,7 mmol/l",,1.7,mmol/l,,Triglyceride-2

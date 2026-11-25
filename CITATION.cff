@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the laboratory documents it was transcribed from (listed in data/sources.csv)."
+title: "Lab Reference Ranges: a sourced snapshot of published adult reference intervals from hospital laboratories and harmonisation bodies"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-25
+license:
+  - CC-BY-4.0
+  - MIT
+url: "https://lifefrom.ai/research/open-data/lab-ranges"
+repository-code: "https://github.com/caraulani/lab-reference-ranges"
+authors:
+  - name: LifeFrom
+    website: "https://lifefrom.ai"
+  - family-names: Caraulani
+    given-names: Julian
+    affiliation: LifeFrom
+keywords:
+  - reference intervals
+  - reference ranges
+  - harmonisation
+  - clinical chemistry
+  - haematology
+  - laboratory medicine

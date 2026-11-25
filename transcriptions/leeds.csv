@@ -1,0 +1,59 @@
+analyte_printed,marker_slug,specimen,sex,age_printed,age_min_y,age_max_y,range_as_printed,low,high,unit_printed,method,page
+Alanine amino-transferase (ALT),alt,serum/plasma/whole blood (not specified per test),all,>19 yr,,,≤40,,40,U/L,Siemens,1
+Albumin,albumin-serum,serum/plasma/whole blood (not specified per test),all,17+ yr,,,35 - 50,35,50,g/L,,1
+Alkaline Phosphatase (ALP),alp,serum/plasma/whole blood (not specified per test),all,Adult,,,30 - 130,30,130,U/L,,1
+Aspartate aminotransferase (AST),ast,serum/plasma/whole blood (not specified per test),all,adult,,,<35,,35,U/L,,2
+Bicarbonate,bicarbonate-co2,serum/plasma/whole blood (not specified per test),all,17+ yr,,,22 - 29,22,29,mmol/L,,2
+Bilirubin (total),total-bilirubin,serum/plasma/whole blood (not specified per test),all,adult,,,<21,,21,umol/L,,2
+C-reactive protein (CRP),crp,serum/plasma/whole blood (not specified per test),all,adult,,,<10,,10,mg/L,Siemens,2
+Calcium (total),calcium-total,serum/plasma/whole blood (not specified per test),all,>16 yrs,,,2.2 - 2.6,2.2,2.6,mmol/L,,2
+Chloride,chloride-serum,serum/plasma/whole blood (not specified per test),all,adult,,,95 - 108,95,108,mmol/L,,3
+Creatine kinase (CK),ck-total,serum/plasma/whole blood (not specified per test),M,adult,,,40 - 320,40,320,U/L,,3
+Creatine kinase (CK),ck-total,serum/plasma/whole blood (not specified per test),F,adult,,,25 - 200,25,200,U/L,,3
+Creatinine,creatinine-serum,serum/plasma/whole blood (not specified per test),F,18+ yrs,,,F: 49 - 90,49,90,umol/L,,3
+Creatinine,creatinine-serum,serum/plasma/whole blood (not specified per test),M,18+ yrs,,,M: 62 - 115,62,115,umol/L,,3
+Ferritin,ferritin,serum/plasma/whole blood (not specified per test),all,adult,,,30 - 337,30,337,ug/L,,4
+Folate,folate-serum,serum/plasma/whole blood (not specified per test),all,adult,,,5.4 - 24.0,5.4,24.0,ug/L,,5
+Free T4,free-t4,serum/plasma/whole blood (not specified per test),all,adult,,,10 - 20,10,20,pmol/L,,5
+Gamma glutamyl transferase (GGT),ggt,serum/plasma/whole blood (not specified per test),F,adult,,,Female: 6-40,6,40,U/L,,5
+Gamma glutamyl transferase (GGT),ggt,serum/plasma/whole blood (not specified per test),M,adult,,,Male: 12-68,12,68,U/L,,5
+Glucose (plasma),glucose-fasting,plasma,all,adult,,,fasting 3.5 - 6.0,3.5,6.0,mmol/L,,5
+Haemoglobin,hemoglobin,whole blood,F,> 16 yr,,,120 - 160,120,160,g/L,,5
+Haemoglobin,hemoglobin,whole blood,M,> 16 yr,,,130 - 180,130,180,g/L,,5
+Haemoglobin A1c,hba1c,whole blood,all,adult,,,<42,,42,mmol/mol,,5
+Iron,serum-iron,serum/plasma/whole blood (not specified per test),F,adult,,,9.0 - 30.4,9.0,30.4,umol/L,Siemens Atellica,6
+Iron,serum-iron,serum/plasma/whole blood (not specified per test),M,adult,,,11.6 - 31.3,11.6,31.3,umol/L,Siemens Atellica,6
+Lactate dehydrogenase (LDH),ldh,serum/plasma/whole blood (not specified per test),all,adult,,,120 - 246,120,246,iU/L,Siemens,7
+Lymphocytes,lymphocytes-absolute,whole blood,all,>11 years,,,1.0 - 4.5,1.0,4.5,x109/L,,7
+Magnesium,magnesium-serum,serum/plasma/whole blood (not specified per test),all,>5 wk,,,0.7 - 1.0,0.7,1.0,mmol/L,,7
+Mean corpuscular volume (MCV),mcv,whole blood,F,> 12 years,,,78 - 100,78,100,fl,,8
+Mean corpuscular volume (MCV),mcv,whole blood,M,> 12 years,,,80 - 100,80,100,fl,,8
+Neutrophils,neutrophils-absolute,whole blood,all,>10 yrs,,,1.5 - 7.0,1.5,7.0,x109/L,,9
+Packed Cell Volume (PCV),hematocrit,whole blood,F,>12 yr,,,0.36 - 0.48,0.36,0.48,(no units),,9
+Packed Cell Volume (PCV),hematocrit,whole blood,M,>12 yr,,,0.40 - 0.52,0.40,0.52,(no units),,9
+Phosphate,phosphorus-serum,serum/plasma/whole blood (not specified per test),all,19+ yrs,,,M: 0.80 - 1.50 F: 0.80 - 1.50,0.80,1.50,mmol/L,,10
+Platelets,platelet-count,whole blood,all,adult,,,150 - 400,150,400,x109/L,,10
+Potassium,potassium-serum,serum/plasma/whole blood (not specified per test),all,>17 yr,,,3.5 - 5.3,3.5,5.3,mmol/L,,10
+Prolactin,prolactin,serum/plasma/whole blood (not specified per test),M,adult,,,<550,,550,mU/L,,11
+Prolactin,prolactin,serum/plasma/whole blood (not specified per test),F,adult,,,<600,,600,mU/L,,11
+Protein (serum total),total-protein,serum,all,adult,,,60 - 80,60,80,g/L,,11
+Red Cell Count (RBC),rbc,whole blood,F,> 12 yrs,,,3.8-5.8,3.8,5.8,x1012/L,,12
+Red Cell Count (RBC),rbc,whole blood,M,> 12 yrs,,,4.5-6.5,4.5,6.5,x1012/L,,12
+Sex hormone binding globulin (SHBG),shbg,serum/plasma/whole blood (not specified per test),M,20+ yrs,20,,13.3 - 89.5,13.3,89.5,nmol/L,Beckman,12
+Sex hormone binding globulin (SHBG),shbg,serum/plasma/whole blood (not specified per test),F,20-46 yrs,20,46,18.2 - 135.2,18.2,135.2,nmol/L,Beckman,12
+Sodium,sodium-serum,serum/plasma/whole blood (not specified per test),all,adult,,,133 - 146,133,146,mmol/L,,12
+Testosterone,testosterone-total,serum/plasma/whole blood (not specified per test),M,adult,,,8 - 27,8,27,nmol/L,,12
+Testosterone,testosterone-total,serum/plasma/whole blood (not specified per test),F,adult,,,0 - 2.8,0,2.8,nmol/L,,12
+Thyroid stimulating hormone (TSH),tsh,serum/plasma/whole blood (not specified per test),all,adult,,,0.2 - 4.3,0.2,4.3,mU/L,,13
+Total Iron Binding Capacity (TIBC),tibc,serum/plasma/whole blood (not specified per test),all,adult,,,45 - 76,45,76,umol/L,Siemens Atellica,13
+Triglycerides,triglycerides,serum/plasma/whole blood (not specified per test),all,adult,,,fasting <2.3,,2.3,mmol/L,,13
+Urate (uric acid),uric-acid,serum/plasma/whole blood (not specified per test),M,adult,,,200 - 430,200,430,umol/L,,13
+Urate (uric acid),uric-acid,serum/plasma/whole blood (not specified per test),F,adult,,,140 - 360,140,360,umol/L,,13
+Urea,urea,serum/plasma/whole blood (not specified per test),all,>17 yr,,,2.5 - 7.8,2.5,7.8,mmol/L,,13
+Vitamin B12,vitamin-b12,serum/plasma/whole blood (not specified per test),all,adult,,,211 - 911,211,911,ng/L,Siemens,14
+White cell count (WBC),wbc,whole blood,all,> 11yr,,,3.5 - 10.0,3.5,10.0,x109/L,,14
+Prostate specific antigen (PSA),psa-total,serum/plasma/whole blood (not specified per test),M,Males ≤ 49 years,,49,< 2.5,,2.5,µg/L,,11
+Prostate specific antigen (PSA),psa-total,serum/plasma/whole blood (not specified per test),M,Males 50 - 59 years,50,59,< 3.5,,3.5,µg/L,,11
+Prostate specific antigen (PSA),psa-total,serum/plasma/whole blood (not specified per test),M,Males 60 - 69 years,60,69,< 4.5,,4.5,µg/L,,11
+Prostate specific antigen (PSA),psa-total,serum/plasma/whole blood (not specified per test),M,Males ≥ 70 years,70,,< 6.5,,6.5,µg/L,,11
+Sex hormone binding globulin (SHBG),shbg,serum/plasma/whole blood (not specified per test),F,Female 47-91 yrs,47,91,16.8 - 125.2,16.8,125.2,nmol/L,Beckman,12
